@@ -1,2 +1,2 @@
 # billett
-SI boleteria
+Sistema de informacion boleteria
