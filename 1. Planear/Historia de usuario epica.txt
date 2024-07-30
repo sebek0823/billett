@@ -1,0 +1,32 @@
+Historia de usuario epica
+
+1. Nombre del proyecto: Billett
+
+2. Proceso:
+    •	Registro del evento
+    •	Publicación de boletas
+    •	Venta de boletas
+    •	Envio de boletas a los clientes
+
+3. Actores: 
+    •	Clientes: Personas que compran boletas para asistir a eventos.
+    •	Administradores del sistema: Personal de la empresa encargado de gestionar el sistema, actualizar la boletería 
+        de los eventos.
+    •	Organizadores de eventos: Suministran la información de eventos, precios, fechas y detalles del evento.
+
+4. Producto/servicio: Venta de boletas para eventos
+
+5. Escenario actual: El proceso de venta de boletas actualmente se realiza de manera fisica en el punto de venta. 
+    El cliente llega al punto de venta y pregunta por el evento al que desea asistir luego el asesor del punto d evneta
+    verifica la disponibilidad, precio de la boleta e informa al cliente cuando el cliente paga el asesor le hace entrega 
+    de la boleta fisica.
+
+6. Escenario objetivo: Las ventas se puedan realizar tanto de manera fisica y virtual implementando un sistema de 
+    informacion transaccional para gestionar la venta de boletas.
+
+7. Problematica: venta de boletas lenta, desplazamiento de los clientes, falta de informacion en tiempo real de la disponibilidad
+    de las boletas.
+
+8. Solucion: Creacion de un sistema para que los clientes desde cualquier lugar pueda comprar las boletas, 
+    no se deba trasladar hasta el punto de venta, se conozca en tiempo real la disponibilidad de boletas.
+

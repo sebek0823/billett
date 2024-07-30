@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="2">
+  <diagram name="Venta - Actual" id="7aivFQpvPPGwh6RhPbaY">
+    <mxGraphModel dx="640" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pnoqDllVbGefBGasWEdO-1" value="Flujo de venta de boletas - Actual" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="140" y="30" width="600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-2" value="Cliente" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="pnoqDllVbGefBGasWEdO-1" vertex="1">
+          <mxGeometry y="40" width="600" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-3" value="Estado inicial" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="pnoqDllVbGefBGasWEdO-2" vertex="1">
+          <mxGeometry x="40" width="187" height="160" as="geometry">
+            <mxRectangle width="187" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bec3HVNdoNUISOMidx-q-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" parent="pnoqDllVbGefBGasWEdO-3" vertex="1">
+          <mxGeometry x="13.5" y="52.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FgiiflSu3p7hEkr1707w-2" value="Pregunta disponibilidad de boletas" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="pnoqDllVbGefBGasWEdO-3">
+          <mxGeometry x="63.5" y="42.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FgiiflSu3p7hEkr1707w-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pnoqDllVbGefBGasWEdO-3" source="Bec3HVNdoNUISOMidx-q-1" target="FgiiflSu3p7hEkr1707w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgiiflSu3p7hEkr1707w-3" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;" vertex="1" parent="pnoqDllVbGefBGasWEdO-3">
+          <mxGeometry x="123.5" y="105" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FgiiflSu3p7hEkr1707w-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pnoqDllVbGefBGasWEdO-3" source="FgiiflSu3p7hEkr1707w-2" target="FgiiflSu3p7hEkr1707w-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-4" value="Estado intermedio" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="pnoqDllVbGefBGasWEdO-2" vertex="1">
+          <mxGeometry x="227" width="186" height="160" as="geometry">
+            <mxRectangle width="186" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-5" value="Estado final" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="pnoqDllVbGefBGasWEdO-2" vertex="1">
+          <mxGeometry x="413" width="187" height="160" as="geometry">
+            <mxRectangle width="187" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bec3HVNdoNUISOMidx-q-3" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" parent="pnoqDllVbGefBGasWEdO-5" vertex="1">
+          <mxGeometry x="110" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-6" value="Asesor" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;verticalAlign=middle;whiteSpace=wrap;" parent="pnoqDllVbGefBGasWEdO-1" vertex="1">
+          <mxGeometry y="200" width="600" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="pnoqDllVbGefBGasWEdO-6" vertex="1">
+          <mxGeometry x="40" width="187" height="160" as="geometry">
+            <mxRectangle width="187" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="pnoqDllVbGefBGasWEdO-6" vertex="1">
+          <mxGeometry x="227" width="186" height="160" as="geometry">
+            <mxRectangle width="186" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnoqDllVbGefBGasWEdO-9" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="pnoqDllVbGefBGasWEdO-6" vertex="1">
+          <mxGeometry x="413" width="187" height="160" as="geometry">
+            <mxRectangle width="187" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bec3HVNdoNUISOMidx-q-2" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" parent="pnoqDllVbGefBGasWEdO-9" vertex="1">
+          <mxGeometry x="110" y="55" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TJCYYqDkxtCBFc2ZwhgP" name="Venta - Objetivo">
+    <mxGraphModel dx="832" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
