@@ -1,0 +1,40 @@
+[
+    {
+        "IdEmpresa": "ee3e6c45-e8f5-4026-ac5b-2a81439223a9",
+        "RazonSocial": "Billett S.A",
+        "NIT": "845612-1",
+        "IdSede": "c410a75a-f0c1-4b59-bddd-0899012c132a",
+        "NombreSede": "Parque de itagui",
+        "DireccionSede": "Diagonal 22",
+        "IdEmpleado": "b6ddd54e-9620-4b13-b0cd-72d377fde022",
+        "NombreEmpleado": "Victor Garcia",
+        "IdDocumento": "5f20c59b-aea5-4b14-8340-25c95091b3b4",
+        "NombreDocumento": "Cedula",
+        "NumeroDocumento": "56446432351",
+        "IdCargo": "5d3c384a-8c2b-4747-873c-41caa629f3d2",
+        "NombreCargo": "Asesor",
+        "EmpresaActiva": "1",
+        "SedeActiva": "1",
+        "EmpleadoActivo": "1",
+        "Actualiza": "2024-09-22T16:42:35.159548"
+    },
+    {
+        "IdEmpresa": "ee3e6c45-e8f5-4026-ac5b-2a81439223a9",
+        "RazonSocial": "Billett S.A",
+        "NIT": "845612-1",
+        "IdSede": "a43fda19-cd41-49f9-a6fc-bf6216fb1e04",
+        "NombreSede": "Punto de venta principal medellin",
+        "DireccionSede": "Calle 44",
+        "IdEmpleado": "3f2df714-c916-45f1-bec8-3e4041a9c1a4",
+        "NombreEmpleado": "Melisa Muñoz",
+        "IdDocumento": "5f20c59b-aea5-4b14-8340-25c95091b3b4",
+        "NombreDocumento": "Cedula",
+        "NumeroDocumento": "45221544",
+        "IdCargo": "5d3c384a-8c2b-4747-873c-41caa629f3d2",
+        "NombreCargo": "Asesor",
+        "EmpresaActiva": "1",
+        "SedeActiva": "1",
+        "EmpleadoActivo": "1",
+        "Actualiza": "2024-09-22T16:43:24.212911"
+    }
+]

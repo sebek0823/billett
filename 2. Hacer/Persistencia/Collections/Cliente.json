@@ -1,0 +1,32 @@
+[
+    {
+        "IdCliente": "fe9bd9e2-582f-41c0-89ba-dc0a93d98f52",
+        "NombreCliente": "Vicente Ramirez",
+        "NumeroDocumento": "76483",
+        "IdDocumento": "5f20c59b-aea5-4b14-8340-25c95091b3b4",
+        "NombreDocumento": "Cedula",
+        "IdGenero": "2e01f852-086e-41a6-ac27-7ee3d7850482",
+        "NombreGenero": "Masculino",
+        "IdEstadoCivil": "0420ab4b-efa8-4e3c-8433-1d2410356404",
+        "EstadoCivil": "Viud@",
+        "Telefono": "21356465",
+        "Correo": "vr@gmail.com",
+        "Activo": "1",
+        "Actualiza": "2024-09-22T16:46:09.53039"
+    },
+    {
+        "IdCliente": "9e9cc767-afcb-4eb6-b9f2-2aa2b67e85ed",
+        "NombreCliente": "Luisa Lopez",
+        "NumeroDocumento": "87659485",
+        "IdDocumento": "5f20c59b-aea5-4b14-8340-25c95091b3b4",
+        "NombreDocumento": "Cedula",
+        "IdGenero": "9d91f993-ddf4-4530-aba5-21c71a20637c",
+        "NombreGenero": "Femenino",
+        "IdEstadoCivil": "3800f110-45e7-445e-a7d2-698cc9b74d6e",
+        "EstadoCivil": "Solter@",
+        "Telefono": "98653215",
+        "Correo": "ll@hotmail.com",
+        "Activo": "1",
+        "Actualiza": "2024-09-22T16:47:21.611208"
+    }
+]

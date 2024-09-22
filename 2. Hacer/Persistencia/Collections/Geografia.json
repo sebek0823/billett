@@ -1,0 +1,18 @@
+[
+    {
+        "IdPais": "f645fea3-91df-4817-ba29-a84f608a41c1",
+        "IdCiudad": "af4e34b3-a865-4731-9884-e1c2e347b369",
+        "NombrePais": "colombia",
+        "NombreCiudad": "Itagui",
+        "IdDepartamento": "05fc860b-f4eb-4c86-a4c9-5910487bce23",
+        "NombreDepartamento": "Antioquia"
+    },
+    {
+        "IdPais": "f645fea3-91df-4817-ba29-a84f608a41c1",
+        "IdCiudad": "0e7879b2-c49a-4277-a238-388ef28523cc",
+        "NombrePais": "colombia",
+        "NombreCiudad": "Medellin",
+        "IdDepartamento": "05fc860b-f4eb-4c86-a4c9-5910487bce23",
+        "NombreDepartamento": "Antioquia"
+    }
+]

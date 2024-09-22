@@ -24,9 +24,27 @@ Historia de usuario epica
 6. Escenario objetivo: Las ventas se puedan realizar tanto de manera fisica y virtual implementando un sistema de 
     informacion transaccional para gestionar la venta de boletas.
 
-7. Problematica: venta de boletas lenta, desplazamiento de los clientes, falta de informacion en tiempo real de la disponibilidad
-    de las boletas.
+7. Problematica: venta de boletas lenta, desplazamiento de los clientes, falta de informacion en tiempo real 
+    de la disponibilidad de las boletas.
 
 8. Solucion: Creacion de un sistema para que los clientes desde cualquier lugar pueda comprar las boletas, 
     no se deba trasladar hasta el punto de venta, se conozca en tiempo real la disponibilidad de boletas.
 
+9. Mision: Somos una empresa que se dedica a la venta y distribucion de boletas que busca ofrecer la mejor experiencia a los 
+    clientes ofreciendo un servicio rapido.
+
+10. Vision: Para el año 2027 ser una empresa lider en la venta y distribucion de boletas reconocida por sus clientes
+    como una empresa responsable, segura, confiable ofreciendo la compra de boletas a traves de internet.
+
+11. Tipo de proceso: Misional
+
+12. Objetos de alto valor: 
+
+13. Entidades de alto valor: 
+
+14. Atributos de calidad: 
+
+15. Valores significativos:
+
+16. Requerimiento: La empresa Billett requiere un sistema de informacion transaccional que permita la venta de boletas a traves de internet
+    que la disponibilidad este actualizada en tiempo real, hacer envio de la boleta comprada al correo registrado del cliente.

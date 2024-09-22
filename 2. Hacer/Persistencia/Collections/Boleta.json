@@ -1,0 +1,36 @@
+[
+    {
+        "IdBoleta": "51008c7d-f957-4646-9c99-b613796812a7",
+        "NombreBoleta": "The weeknd",
+        "Fecha": "2024-10-22",
+        "Hora": "20:00:00",
+        "Precio": 600000,
+        "IdLugar": "39a49f99-748b-4df6-8d5c-12dae1bf40ec",
+        "NombreLugar": "Estadio atanasio girardot",
+        "IdOrganizador": "d189ae38-dacb-4b96-b936-3ed39d4b7927",
+        "NombreOrganizador": "Entretenimiento S.A",
+        "IdEstadoBoleta": "5a8a47dc-3b6a-4c82-8cdf-c840b809de7b",
+        "NombreEstadoBoleta": "Disponible",
+        "IdCategoria": "28b6bcf6-4c12-4e9b-843a-e481bd75a180",
+        "NombreCategoria": "Concierto",
+        "Activo": "1",
+        "Actualiza": "2024-09-22T16:53:09.877077"
+    },
+    {
+        "IdBoleta": "d9c87c5e-e2f7-41c8-98dd-d34d59fda16f",
+        "NombreBoleta": "Mañana le pago",
+        "Fecha": "2024-11-11",
+        "Hora": "18:00:00",
+        "Precio": 85000,
+        "IdLugar": "8e0976ee-57b6-498e-87e5-3f0165876ffe",
+        "NombreLugar": "Teatro U de M",
+        "IdOrganizador": "d189ae38-dacb-4b96-b936-3ed39d4b7927",
+        "NombreOrganizador": "Entretenimiento S.A",
+        "IdEstadoBoleta": "3c6344e0-84ea-4349-b455-99be02408767",
+        "NombreEstadoBoleta": "Preventa",
+        "IdCategoria": "ec91ecc9-1b03-4797-b209-93f1e1c7d84e",
+        "NombreCategoria": "Teatro",
+        "Activo": "1",
+        "Actualiza": "2024-09-22T16:55:46"
+    }
+]
